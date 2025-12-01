@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Oualid</h1>
 <h3 align="center">A passionate software developper</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=walid-01" alt="walid-01" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oualid-ch" alt="oualid-ch" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [github.com/walid-01](github.com/walid-01)
+- 👨‍💻 All of my projects are available at [github.com/oualid-ch](github.com/oualid-ch)
 
 - 📫 How to reach me **www.linkedin.com/in/oualid-chelghoum/**
 
