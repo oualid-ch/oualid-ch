@@ -59,9 +59,16 @@
   <li>Containerize applications with <b>Docker</b> and prepare them for cloud deployment</li>
 </ul>
 
-<h3 align="left">Portfolio Project:</h3>
+<h3 align="left">Portfolio Projects:</h3>
 <ul>
-  <li><strong>HealthStack:</strong> A microservices-based e-commerce platform for health supplements with Auth, Catalog, Cart, Orders, Payment services, API Gateway, and Message Broker integration.</li>
-    <li><strong>AssuExpert:</strong>A full-stack web platform connecting car insurance companies with appraisers. Implemented REST APIs using ASP.NET Core with the MVC pattern, JWT-based authentication, and Swagger API documentation. Optimized backend performance for real-time requests. Frontend developed with Next.js and TailwindCSS.</li>
-  <li><strong>Sayigh:</strong>A platform for visualizing Algerian dam data with maps, tables, filters, and comparative analytics. Backend implemented with Supabase and integrated public APIs. Frontend built with Next.js, featuring responsive design and SEO optimization.</li>
+  <li>
+    <strong>HealthStack — Microservices Backend:</strong> Designed and implemented a production-style backend system using ASP.NET Core and SQL Server. Features include JWT authentication, REST-based inter-service communication, asynchronous messaging with RabbitMQ, API Gateway routing using YARP, and containerized services with Docker following clean architecture principles.
+  </li>
+  <li>
+    <strong>AssuExpert — Insurance & Appraiser Platform:</strong> Full-stack university startup project connecting car insurance companies with appraisers. Developed the backend with ASP.NET Core (MVC pattern), implemented JWT-based authentication and role-based access control, and built secure REST APIs. Integrated frontend features using Next.js and TailwindCSS, collaborating closely with the team to translate requirements into functional solutions.
+  </li>
+  <li>
+    <strong>Sayigh — Data Visualization Platform:</strong> University startup project for analyzing and monitoring Algerian dam and water resource data. Developed backend services using Supabase, implemented custom calculations, and integrated a classification model for water quality. Built interactive frontend visualizations with Next.js and responsive UI components for maps, tables, filtering, and comparative analytics.
+  </li>
 </ul>
+
