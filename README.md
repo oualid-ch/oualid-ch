@@ -1,74 +1,55 @@
 <h1 align="center">Hi 👋, I'm Oualid</h1>
-<h3 align="center">A passionate ASP.NET Core developer building scalable web applications</h3>
+<h3 align="center">
+  MSc Computer Science student at University of Bonn,
+  building data pipelines and analytical systems
+</h3>
 
-- 👨‍💻 All of my projects are available at [github.com/oualid-ch](https://github.com/oualid-ch)  
+- 👨‍💻 All of my projects are available at [github.com/oualid-ch](https://github.com/oualid-ch)
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/oualid-chelghoum/)
 
 <h3 align="left">Languages, Frameworks & Tools:</h3>
 <p align="left">
-  <!-- ASP.NET Core & C# -->
-  <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-  </a>
-  <a href="https://csharp.net" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-
-  <!-- Databases -->
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
-  </a>
-
-  <!-- Frontend -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-
-  <!-- Backend & APIs -->
-  <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-
-  <!-- Game Development & Others -->
-  <a href="https://unity.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" alt="unity" width="40" height="40"/>
-  </a>
+  <!-- Core -->
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+
+  <!-- Data tools — badges where devicon lacks icons -->
+  <br/><br/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"/>
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" alt="airflow"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="sql server"/>
 </p>
 
 <h3 align="left">What I do:</h3>
 <ul>
-  <li>Develop <b>scalable web applications</b> using <strong>ASP.NET Core MVC & Minimal APIs</strong></li>
-  <li>Design and implement <b>microservices architectures</b> with <b>SQL Server</b> and <b>MongoDB</b></li>
-  <li>Integrate <b>third-party services</b> like Stripe for payments</li>
-  <li>Implement <b>caching, logging, and observability</b> for high-performance apps</li>
-  <li>Containerize applications with <b>Docker</b> and prepare them for cloud deployment</li>
+  <li>Build <b>ELT pipelines</b> — extracting data from APIs, loading into
+      <b>PostgreSQL</b>, transforming with <b>dbt</b></li>
+  <li>Orchestrate data workflows with <b>Apache Airflow</b> DAGs</li>
+  <li>Analyze and visualize data with <b>Python</b> (pandas, matplotlib)</li>
+  <li>Design relational schemas with attention to
+      <b>indexes, views, and transaction isolation</b></li>
+  <li>Containerize data infrastructure with <b>Docker</b></li>
 </ul>
 
-<h3 align="left">Portfolio Projects:</h3>
+<h3 align="left">Projects:</h3>
 <ul>
   <li>
-    <strong>HealthStack — Microservices Backend:</strong> Designed and implemented a production-style backend system using ASP.NET Core and SQL Server. Features include JWT authentication, REST-based inter-service communication, asynchronous messaging with RabbitMQ, API Gateway routing using YARP, and containerized services with Docker following clean architecture principles.
-  </li>
-  <li>
-    <strong>AssuExpert — Insurance & Appraiser Platform:</strong> Full-stack university startup project connecting car insurance companies with appraisers. Developed the backend with ASP.NET Core (MVC pattern), implemented JWT-based authentication and role-based access control, and built secure REST APIs. Integrated frontend features using Next.js and TailwindCSS, collaborating closely with the team to translate requirements into functional solutions.
-  </li>
-  <li>
-    <strong>Sayigh — Data Visualization Platform:</strong> University startup project for analyzing and monitoring Algerian dam and water resource data. Developed backend services using Supabase, implemented custom calculations, and integrated a classification model for water quality. Built interactive frontend visualizations with Next.js and responsive UI components for maps, tables, filtering, and comparative analytics.
+    <strong>Energy Generation Analytics Pipeline (In Progress):</strong>
+    End-to-end ELT pipeline extracting hourly electricity generation data
+    for Germany via the ENTSO-E API, loading raw data into PostgreSQL on
+    Docker, and transforming it with dbt — daily aggregations, rolling
+    7-day averages, and renewable vs. fossil share metrics. Orchestrated
+    with an Apache Airflow DAG on a daily schedule.
   </li>
 </ul>
-
